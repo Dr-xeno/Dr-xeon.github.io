@@ -1,0 +1,23 @@
+BODY {
+    margin: 0;
+	background-color:#ccc;
+}
+
+#Page{
+     position:relative;
+	 width: 900px;
+	 background-color: #eee;
+	 margin: 0 auto;
+	 min-height: 1000px;
+}
+
+#Herder h1
+{
+      margin-top:0;
+}
+
+#Header
+{
+    height: 100px;
+	background-color: #777;
+}
